@@ -1,3 +1,4 @@
+<style type='text/css'>
 .flex-container a:active,.flexslider a:active,.flex-container a:focus,.flexslider a:focus{outline:none}
 .slides,.flex-control-nav,.flex-direction-nav{margin:0;padding:0;list-style:none}
 .flexslider{margin:0;padding:0}
@@ -33,3 +34,4 @@ html[xmlns] .slides{display:block}
 .flex-control-thumbs img:hover{opacity:1}
 .flex-control-thumbs .active{opacity:1;cursor:default}
 .fluid_container{margin:0 auto;width:100%;max-width:100%px;overflow:hidden}.camera_pag_ul{border:none!important;background:none!important}.camera_pag_ul li{float:inherit!important;padding:inherit!important}.camera_pag_ul{margin:0!important;border:0!important}
+</style>
