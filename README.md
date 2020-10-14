@@ -4,6 +4,7 @@
         <title>SUPPORT</title>
         <meta charset="UTF-8"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <link href='https://andaiminhgroup.github.io/css/andaiminhgroup.css' rel='stylesheet' type='text/css'/>
         <style>
             html,
             body {
