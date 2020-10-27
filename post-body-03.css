@@ -1,0 +1,8 @@
+.post-body ol,.post-body ul{padding:10px 0 20px;margin:0 0 0 25px;text-align:left}
+.post-body ol li{list-style-type:decimal;padding:0 0 5px}
+.post-body ul li{list-style-type:square;padding:0 0 5px;color:#fff}
+.post-body img{max-width:90%;height:auto}
+header{background-image:url(&#39;&quot;https://andaiminhgroup.github.io/images/header_gradient_shade.png&quot;&#39;)}
+#header h1 a,#header h2 a,.menu-left a{color:#da1333}
+#header h1 a:hover,#header h2 a:hover{color:#da1333}
+.menu-left a:hover:before,.nav-toggle span{background:#da1333}
