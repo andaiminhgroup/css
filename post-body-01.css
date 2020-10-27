@@ -1,0 +1,14 @@
+.post-body h1 { font-size: 44px; line-height: 34px; margin: 10px 0; font-family: &quot;Roboto&quot;;}
+.post-body h2 { font-size: 24px; line-height: 40px; margin: 10px 0; font-family: &quot;Roboto&quot;;}
+.post-body h3 { font-size: 20px; line-height: 34px; margin: 10px 0; font-family: &quot;Roboto&quot;;}
+.post-body h4 { font-size: 26px; line-height: 36px; margin: 10px 0; font-family: &quot;Roboto&quot;;}
+.post-body h5 { font-size: 24px; line-height: 34px; margin: 10px 0; font-family: &quot;Roboto&quot;;}
+.post-body h6 { font-size: 18px; line-height: 24px; margin: 10px 0; font-family: &quot;Roboto&quot;;}
+.blog-pager,#blog-pager{border:1px solid #e6e6e6;padding:1em 0;margin:0}
+.main-wrapper{margin-right:355px}
+.sidebar-wrapper{display:block}
+@media(max-width:1040px){.main-wrapper{margin-right:315px}.sidebar-wrapper{width:300px}}
+@media(max-width:800px){.main-wrapper{margin-right:0}.sidebar-wrapper{float:left}}
+@media(max-width:700px){}
+@media(max-width:500px){}
+@media(max-width:400px){}
