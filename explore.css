@@ -10,7 +10,7 @@
 .explore-banner .explore-banner-image{height:500px;top:-50px;opacity:1}
 }
 .explore-banner .explore-banner-text{max-width:550px;float:left}
-.explore-banner .explore-banner-text h1{font-family:'Droid Sans';color:#ec171b;font-size:3rem;font-weight:1000;letter-spacing:1px;margin-bottom:1rem;}
+.explore-banner .explore-banner-text h1{font-family:'Roboto Condensed';color:#ec171b;font-size:3rem;font-weight:1000;letter-spacing:1px;margin-bottom:1rem;}
 .explore-banner .explore-banner-text p{color:#000;font-size:1.05rem;line-height:1.75}
 .explore-banner button{border:0;border-radius:50px;padding:.75rem 2.75rem;margin-top:10px;background:#ec171b;color:#fff;box-shadow:0 .5rem 1.5rem rgba(0,0,0,0.25);cursor:pointer;position:relative;font-size:1rem;font-weight:400;letter-spacing:1px;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
 .explore-banner button:hover{-webkit-transform:translateY(-5px);-ms-transform:translateY(-5px);-o-transform:translateY(-5px);transform:translateY(-5px);box-shadow:0 1rem 1.5rem rgba(0,0,0,0.25)}
