@@ -20,8 +20,8 @@
 .explore-card p{color:#989dc5;font-size:1rem;line-height:1.5;margin-bottom:72px}
 .explore-card .explore-card-link{position:absolute;bottom:18px}
 .explore-card:hover{-webkit-transform:translateY(-5px);-ms-transform:translateY(-15px);-o-transform:translateY(-15px);transform:translateY(-15px);box-shadow:0 1rem 1.5rem rgba(0,0,0,0.15);cursor:pointer}
-/*.explore-card .explore-card-icon{width:60px;margin-bottom:8px;position:relative;top:0;left:-12px}*/
-.explore-card .explore-card-icon{width:100%;margin-bottom:0;position:relative;top:0;left:0}
+.explore-card .explore-card-icon{width:60px;margin-bottom:8px;position:relative;top:0;left:-12px}
+.explore-card .explore-card-icon-w100{width:100%;margin-bottom:0;position:relative;top:0;left:0}
 .explore-buttons-coll{position:absolute;bottom:18px;text-align:center}
 .custom-explore-btn{padding:10px 25px;font-family:"Roboto",sans-serif;font-weight:500;background:transparent;outline:none!important;cursor:pointer;transition:all .3s ease;position:relative;display:inline-block}
 .explore-btn-1{border:2px solid #00106a}
