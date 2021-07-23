@@ -1,3 +1,22 @@
+/* EXP */
+.explore-banner{height:auto;margin:32px 0;display:flex;align-items:center;width:100%;position:relative;z-index:1}
+@media (min-width: 768px) {
+.explore-banner{height:450px;margin-bottom:32px}
+}
+.explore-banner .explore-banner-image{position:absolute;opacity:.25;right:0;top:0;height:300px;z-index:-1}
+@media (min-width: 768px) {
+.explore-banner .explore-banner-image{display:inherit;height:400px;top:0;opacity:.5}
+}
+@media (min-width: 992px) {
+.explore-banner .explore-banner-image{height:500px;top:-50px;opacity:1}
+}
+.explore-banner .explore-banner-text{max-width:550px;float:left}
+.explore-banner .explore-banner-text h1{color:#ec171b;font-size:3rem;font-weight:700;letter-spacing:3px;margin-bottom:1rem;text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;border-radius: 5px;}
+.explore-banner .explore-banner-text p{color:#fff;font-size:1.05rem;line-height:1.75}
+.explore-banner button{border:0;border-radius:50px;padding:.75rem 2.75rem;margin-top:10px;background:#ec171b;color:#fff;box-shadow:0 .5rem 1.5rem rgba(0,0,0,0.25);cursor:pointer;position:relative;font-size:1rem;font-weight:400;letter-spacing:1px;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.explore-banner button:hover{-webkit-transform:translateY(-5px);-ms-transform:translateY(-5px);-o-transform:translateY(-5px);transform:translateY(-5px);box-shadow:0 1rem 1.5rem rgba(0,0,0,0.25)}
+
+/* SOFT */
 .banners{height:auto;margin:32px 0;display:flex;align-items:center;width:100%;position:relative;z-index:1}
 @media (min-width: 768px) {
 .banners{height:450px;margin-bottom:32px}
@@ -15,8 +34,28 @@
 .banners .banners-text p{color:#fff;font-size:1.05rem;line-height:1.75}
 .banners button{border:0;border-radius:50px;padding:.75rem 2.75rem;margin-top:10px;background:#4b71ff;color:#fff;box-shadow:0 .5rem 1.5rem rgba(0,0,0,0.25);cursor:pointer;position:relative;font-size:1rem;font-weight:400;letter-spacing:1px;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
 .banners button:hover{-webkit-transform:translateY(-5px);-ms-transform:translateY(-5px);-o-transform:translateY(-5px);transform:translateY(-5px);box-shadow:0 1rem 1.5rem rgba(0,0,0,0.25)}
-
 .admg-banner{height:auto;margin:32px 0;display:flex;align-items:center;width:100%;position:relative;z-index:1}
+
+/* WEB */
+.web-banner{height:auto;margin:32px 0;display:flex;align-items:center;width:100%;position:relative;z-index:1}
+@media (min-width: 768px) {
+.web-banner{height:450px;margin-bottom:32px}
+}
+.web-banner .web-banner-image{position:absolute;opacity:.25;right:0;top:0;height:300px;z-index:-1}
+@media (min-width: 768px) {
+.web-banner .web-banner-image{display:inherit;height:400px;top:0;opacity:.5}
+}
+@media (min-width: 992px) {
+.web-banner .web-banner-image{height:500px;top:-50px;opacity:1}
+}
+.web-banner .web-banner-text{max-width:550px;float:left}
+.web-banner .web-banner-text h1{color:#ec171b;font-size:3rem;font-weight:700;letter-spacing:3px;margin-bottom:1rem;text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;border-radius: 5px;}
+.web-banner .web-banner-text p{color:#000;font-size:1.05rem;line-height:1.75}
+.web-banner button{border:0;border-radius:50px;padding:.75rem 2.75rem;margin-top:10px;background:#ec171b;color:#fff;box-shadow:0 .5rem 1.5rem rgba(0,0,0,0.25);cursor:pointer;position:relative;font-size:1rem;font-weight:400;letter-spacing:1px;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.web-banner button:hover{-webkit-transform:translateY(-5px);-ms-transform:translateY(-5px);-o-transform:translateY(-5px);transform:translateY(-5px);box-shadow:0 1rem 1.5rem rgba(0,0,0,0.25)}
+
+/* ADMG */
+
 @media (min-width: 768px) {
 .admg-banner{height:450px;margin-bottom:32px}
 }
@@ -32,8 +71,9 @@
 .admg-banner .admg-banner-text p{color:#fff;font-size:1.05rem;line-height:1.75}
 .admg-banner button{border:0;border-radius:50px;padding:.75rem 2.75rem;margin-top:10px;background:#ec171b;color:#fff;box-shadow:0 .5rem 1.5rem rgba(0,0,0,0.25);cursor:pointer;position:relative;font-size:1rem;font-weight:400;letter-spacing:1px;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
 .admg-banner button:hover{-webkit-transform:translateY(-5px);-ms-transform:translateY(-5px);-o-transform:translateY(-5px);transform:translateY(-5px);box-shadow:0 1rem 1.5rem rgba(0,0,0,0.25)}
-.mb-30{margin-bottom:30px}
 
+/* MODULE */
+.mb-30{margin-bottom:30px}
 .cards{padding:16px 24px;background:#fff;height:100%;position:relative;border:none;box-shadow:0 .5rem 1.5rem rgba(0,0,0,0.15);border:2px solid transparent;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;z-index:10}
 .cards h3.cards-title{font-weight:700;font-size:1.3rem;color:#00106a}
 .cards p{color:#989dc5;font-size:1rem;line-height:1.5;margin-bottom:72px}
