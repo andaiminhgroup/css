@@ -1,0 +1,4 @@
+#error-not-found {background: #ed1c24; text-align:center; position:fixed; top:0px; right:0px; bottom:0px; left:0px; padding-top:270px; z-index:999999;}
+ #error-not-found  h1 {font-size:300px!important; position:absolute; font-family:&#39;Roboto&#39;, sans-serif; top:70px; left:50%; letter-spacing: -8px; margin-left:-502px!important; width:720px; z-index:-2;  color:rgba(0,0,0,.1)!important;}    
+#error-not-found  h2 { font-family:&#39;Roboto&#39;text-transform:normal; font-size:35px; line-height:66px!important; letter-spacing: -3px; color:#fff!important; margin:0!important;  padding:0!important;}
+#error-not-found p a, #error-not-found p a:visited, #error-not-found p a:hover{font-family:&#39;Roboto&#39; text-transform:normal; font-size:20px; line-height:40px!important;border:none; font-weight: bold; color:rgba(255, 255, 255, .5)!important; margin:0!important; padding:0!important; text-decoration:none!important;}
