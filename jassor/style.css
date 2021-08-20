@@ -7113,7 +7113,7 @@ h6 {
 .phone::before {
 	width: 25px;
 	content: " ";
-	background-image: url(../img/icons/phone.png);
+	background-image: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437472/jassor/phone_ghu52q.png");
 	background-repeat: no-repeat;
 	position: absolute;
 	height: 25px
@@ -7121,7 +7121,7 @@ h6 {
 .envelope::before {
 	width: 30px;
 	content: " ";
-	background-image: url(../img/icons/envelope.png);
+	background-image: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437517/jassor/envelope_be8mx4.png");
 	background-repeat: no-repeat;
 	position: absolute;
 	height: 25px;
@@ -7130,7 +7130,7 @@ h6 {
 #Navigation {
 	display: block;
 	width: auto;
-	background-image: url(../img/bg/nav_bg.png);
+	background-image: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437584/jassor/nav_bg_rcyxxg.png";
 	background-repeat: repeat-y
 }
 #Navigation .navbar-toggler-right {
@@ -7416,8 +7416,9 @@ h6 {
 	height: 1500px
 }
 }
-#About {
-	background: url("../img/bg/about.jpg") no-repeat center right;
+
+{
+	background: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437063/jassor/about_qp40p9.jpg") no-repeat center right;
 	padding: 50px 0
 }
 @media (max-width: 575px) {
@@ -7439,7 +7440,7 @@ h6 {
 }
 #About .readmore::after {
 	content: "";
-	background: url(../img/icons/readmore.png) no-repeat;
+	background: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437186/jassor/readmore_leify9.png") no-repeat;
 	position: absolute;
 	right: -23px;
 	top: 0;
@@ -7456,7 +7457,7 @@ h6 {
 }
 #GeneralUsage {
 	background-color: #2a449c;
-	background-image: url("../img/bg/pattern.png");
+	background-image: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437219/jassor/pattern_fpl2ic.png");
 	background-repeat: repeat-x repeat-y;
 	background-position: center;
 	padding: 50px 0
@@ -7491,7 +7492,7 @@ h6 {
 }
 #GeneralUsage .inline-block li  p{color:#fff; margin-top:5px}
 #Source {
-	background: url("../img/bg/source.jpg") no-repeat center;
+	background: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437295/jassor/source_gkr40t.jpg") no-repeat center;
 	padding: 50px 0
 }
 #Source h3 {
@@ -7510,14 +7511,14 @@ h6 {
 }
 }
 #Source .box {
-	background: url("../img/bg/box.png") repeat;
+	background: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437327/jassor/box_pzgr9t.png") repeat;
 	-moz-transition: all, .3s;
 	-o-transition: all, .3s;
 	-webkit-transition: all, .3s;
 	transition: all, .3s
 }
 #Source .box:hover {
-	background: url("../img/bg/box-blue.png") repeat
+	background: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437358/jassor/box-blue_h3dcmw.png") repeat
 }
 #Source .large_p {
 	font-size: 24px;
@@ -7526,7 +7527,7 @@ h6 {
 	margin-top: 10px
 }
 footer {
-	background: url("../img/bg/footer.png") no-repeat;
+	background: url("https://res.cloudinary.com/andaiminhgroup/image/upload/v1629437389/jassor/footer_vsa1ea.png") no-repeat;
 	padding-top: 50px;
 	background-color: #262524
 }
