@@ -7,7 +7,7 @@ input[type=&quot;text&quot;],input[type=&quot;email&quot;],input[type=&quot;tel&
 .modal-open .modal{z-index:9999}
 ul li{list-style:none}
 .fb_dialog_advanced.fb_customer_chat_bubble_animated_no_badge{right:18px!important}
-.addThis_listSharing{position:fixed;bottom:120px;z-index:999;right:-15px;opacity:0;visibility:hidden;transition:all .3s ease;-webkit-transition:all .3s ease;-moz-transition:all .3s ease;-o-transition:all .3s ease}
+.addThis_listSharing{position:fixed;bottom:135px;z-index:999;right:-15px;opacity:0;visibility:hidden;transition:all .3s ease;-webkit-transition:all .3s ease;-moz-transition:all .3s ease;-o-transition:all .3s ease}
 .addThis_listSharing.is-show{right:0;opacity:1;visibility:visible}
 .addThis_listing .addThis_item{margin-bottom:5px;margin-right:24px}
 .addThis_listing .addThis_item .addThis_item--icon{position:relative;display:inline-block;text-align:center;width:44px;height:44px;line-height:44px;color:#fff;border-radius:50%;cursor:pointer;box-shadow:0 2px 5px 0 rgba(0,0,0,.11);background-size:auto;background-repeat:no-repeat;background-position:center}
