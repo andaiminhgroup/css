@@ -1,0 +1,34 @@
+        :root{
+        --primary-violet:#5B25F5;
+        --primary:#7b56ff;
+        --primary-light:#8abdff;
+        --primary-2:#6d5dfc;
+        --primary-dark:#5b0eeb;
+        --lg-primary-touch:linear-gradient(330deg, var(--primary-dark) 0%, var(--primary) 50%, var(--primary-light) 100%);
+        --f-old-standard:'Old Standard TT',sans-serif;
+        --f-roboto:'Roboto',sans-serif;
+        --f-poppins:'Poppins';
+        --f-dm-mono:'DM Mono';
+        --f-playfair:'Playfair Display';
+        --f-raleway:'Raleway';
+        --f-bitter:'Bitter';
+        --f-montserrat:'Montserrat';
+        --f-dancing:'Dancing Script';
+        --f-crimson:'Crimson Text';
+        --f-niconne:'Niconne';
+        --f-awesome:'Font Awesome 5 Pro';
+        }
+        /* AN ĐẠI MINH - Font */
+        .f-bitter{font-family:var(--f-bitter)}
+        .f-roboto{font-family:var(--f-roboto)}
+        .f-dm-mono{font-family:var(--f-dm-mono)}
+        .f-raleway{font-family:var(--f-raleway)}
+        .f-old-standard{font-family:var(--f-old-standard)}
+        .f-poppins{font-family:var(--f-poppins)}
+        .f-playfair{font-family:var(--f-playfair)}
+        .f-montserrat{font-family:var(--f-montserrat)}
+        .f-dancing{font-family:var(--f-dancing)}
+        .f-crimson{font-family:var(--f-crimson)}
+        .f-niconne{font-family:var(--f-niconne)}
+        .f-mixture{font-family:"Lato", Helvetica, Arial, "ヒラギノ角ゴシック体 GB W6", Hiragino Sans GB W6, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;}
+        .blg-primary-touch{background:var(--lg-primary-touch)} 
